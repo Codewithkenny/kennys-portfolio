@@ -1,0 +1,87 @@
+.about {
+    background: #191919;
+}
+
+img.about_img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+h1.about__heading {
+    margin-bottom: 10px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Josefin Slab', serif;
+    font-size: 60px;
+    color: #fff;
+}
+
+.about_component_space {
+    margin-bottom: 30px;
+    background: #191919;
+}
+
+button.about.btn.pointer {
+    text-transform: capitalize;
+    width: 195px;
+    height: 55px;
+    font-size: 18px;
+    transition: 0.4s ease;
+}
+
+.about__button {
+    padding: 20px 0px;
+}
+
+/* .up__to__top__btn{
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 3%;
+    right: 2%;
+    background-color: #f9004D;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    z-index: 1000;
+} */
+
+@media only screen and (max-width: 1024px) {
+    .p__color {
+        font-size: 15px !important;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    button.about.btn.pointer {
+        text-transform: capitalize;
+        width: 165px;
+        height: 50px;
+        font-size: 13px;
+        transition: 0.4s ease;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+   button.about.btn.pointer {
+        margin-left: 12px;
+        text-transform: capitalize;
+        width: 100px;
+        height: 63px;
+        padding: 10px;
+        transition: 0.4s ease;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    h1.about__heading {
+        font-size: 30px;
+    }
+}
+ @media only screen and (max-width: 1024px) {
+    button.about.btn.pointer {
+        padding: auto;
+        font-size: 15px;
+    }
+ }

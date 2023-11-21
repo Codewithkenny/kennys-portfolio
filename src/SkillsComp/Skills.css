@@ -1,0 +1,101 @@
+.interests {
+    margin-bottom: 30px;
+    padding: 30px;
+    padding-top: 50px;
+}
+
+
+.interests .icon-box {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.08);
+    transition: ease-in-out 0.3s;
+}
+
+.interests .icon-box i {
+    font-size: 32px;
+    padding-right: 10px;
+    line-height: 1;
+}
+
+.interests .icon-box h3 {
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-size: 14px;
+    color: #fff;
+}
+
+.interests .icon-box:hover {
+    background: rgba(255, 255, 255, 0.12);
+}
+
+.interests .icon-box .fa-html5 {
+    color: orange;
+}
+
+.interests .icon-box .fa-css3 {
+    color: blue;
+}
+
+.interests .icon-box .bxl-javascript {
+    color: yellow;
+}
+
+.interests .icon-box .bxl-bootstrap {
+    color: purple;
+}
+
+.interests .icon-box .bxl-react {
+    color: rgb(90, 200, 236);
+}
+
+.interests .icon-box .bxl-angular {
+    color: red;
+}
+
+.interests .icon-box .fa-database {
+    color: green;
+}
+.interests .icon-box .bxl-nodejs {
+    color: green;
+}
+.interests .icon-box .bxl-git {
+    color: black;
+}
+.interests .fa-laravel {
+    color: red;
+}
+
+.section-title h2 {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+    line-height: 1px;
+    margin: 0 0 20px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Josefin Slab', serif;
+}
+
+.section-title h2::after {
+    content: "";
+    width: 120px;
+    height: 1px;
+    display: inline-block;
+    background: #4ceb95;
+    margin: 4px 10px;
+}
+
+.section-title p {
+    margin: 0;
+    margin: -15px 0 15px 0;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Josefin Slab', serif;
+    color: #fff;
+}
