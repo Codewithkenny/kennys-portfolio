@@ -103,14 +103,43 @@ h4.home__text {
     }
 
     .home__text .pz__10 {
-        font-size: 7px;
+        font-size: 5px;
+        margin: auto;
+        
         
     }
 
     .i-title-item{
         line-height: 5px;
-        font-size: 27px;
+        font-size: 25px;
     }
+    h4.home__text{
+        font-size: 24px;
+        margin-bottom: 70px;
+        }
 
     
 }
+
+@media only screen and (max-width: 600px){
+
+}  .home__meta {
+      padding: 5px;
+
+  }
+
+  .home__text {
+      font-size: 10px;
+      padding: 10px;
+
+  }
+
+  .home__text .pz__10 {
+      font-size: 5px;
+
+  }
+
+  .i-title-item {
+      line-height: 5px;
+      font-size: 27px;
+  }

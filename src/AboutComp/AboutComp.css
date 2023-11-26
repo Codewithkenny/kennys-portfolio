@@ -67,9 +67,9 @@ button.about.btn.pointer {
    button.about.btn.pointer {
         margin-left: 12px;
         text-transform: capitalize;
-        width: 100px;
-        height: 63px;
-        padding: 10px;
+        width: 90px;
+        height: 60px;
+        padding: 5px;
         transition: 0.4s ease;
     }
 }
