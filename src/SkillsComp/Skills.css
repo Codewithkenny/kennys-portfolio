@@ -65,8 +65,11 @@
 .interests .icon-box .bxl-git {
     color: black;
 }
-.interests .fa-laravel {
-    color: red;
+.interests .bxl-redux {
+    color: rgb(90, 200, 236);
+}
+.interests .bxl-wordpress {
+    color: rgb(90, 200, 236);
 }
 
 .section-title h2 {

@@ -1,5 +1,5 @@
 import img1 from "./img/gf-project.png";
-import img2 from "./img/005.png";
+// import img2 from "./img/005.png";
 import img3 from "./img/excel.png";
 
 export const cardlist = [
@@ -10,7 +10,7 @@ export const cardlist = [
   },
   {
     id: 2,
-    img: img2,
+    img: "", 
     link: "",
   },
   {

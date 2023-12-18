@@ -61,8 +61,14 @@ const Skills = () => {
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4">
                     <div class="icon-box">
-                        <i class="fab fa-laravel"></i>
-                        <h3>LARAVEL</h3>
+                        <i class='bx bxl-redux'></i>
+                        <h3>REDUX</h3>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 mt-4">
+                    <div class="icon-box">
+                        <i class='bx bxl-wordpress' ></i>
+                        <h3>WORDPRESS</h3>
                     </div>
                 </div>
             </div>

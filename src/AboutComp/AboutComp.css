@@ -49,39 +49,41 @@ button.about.btn.pointer {
 
 @media only screen and (max-width: 1024px) {
     .p__color {
-        font-size: 15px !important;
+        font-size: 10px !important;
     }
 }
 
-@media only screen and (max-width: 425px) {
-    button.about.btn.pointer {
-        text-transform: capitalize;
-        width: 165px;
-        height: 50px;
-        font-size: 13px;
-        transition: 0.4s ease;
+
+
+@media only screen and (max-width: 1038px) {
+    button.about__button {
+        margin: 0px 20px;
+        max-width: 175px;
     }
 }
-
-@media only screen and (max-width: 320px) {
-   button.about.btn.pointer {
-        margin-left: 12px;
-        text-transform: capitalize;
-        width: 90px;
-        height: 60px;
-        padding: 5px;
-        transition: 0.4s ease;
-    }
-}
-
 @media only screen and (max-width: 1024px) {
     h1.about__heading {
         font-size: 30px;
     }
+         button.about__btn {
+             padding: auto;
+             font-size: 15px;
+         }
+
+         
 }
- @media only screen and (max-width: 1024px) {
-    button.about.btn.pointer {
-        padding: auto;
-        font-size: 15px;
-    }
+
+
+ @media only screen and (max-width: 584px) {
+     .d__flex {
+         flex-direction: column;
+         gap: 5px;
+         max-width: 100%;
+     }
+ }
+
+ @media only screen and (max-width: 480px) {
+     button.btn {
+         margin: 10px 0px;
+     }
  }
