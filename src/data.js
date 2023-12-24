@@ -1,5 +1,5 @@
 import img1 from "./img/gf-project.png";
-// import img2 from "./img/005.png";
+import img2 from "./img/redlobster.png";
 import img3 from "./img/excel.png";
 
 export const cardlist = [
@@ -10,8 +10,8 @@ export const cardlist = [
   },
   {
     id: 2,
-    img: "", 
-    link: "",
+    img: img2, 
+    link: "https://red-lobster-restaurant.vercel.app/",
   },
   {
     id: 3,
@@ -20,17 +20,17 @@ export const cardlist = [
   },
   {
     id: 4,
-    img: img1,
-    link: "",
+    img: "",
+    link: ""
   },
   {
     id: 5,
-    img: img1,
+    img: "",
     link: "",
   },
   {
     id: 6,
-    img: img1,
+    img: "",
     link: "",
   },
 ];
