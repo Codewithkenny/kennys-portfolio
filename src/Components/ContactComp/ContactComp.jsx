@@ -73,7 +73,7 @@ function ContactComp() {
                             <i className="icon bi bi-telephone flex-shrink-0 text-dark"></i>
                             <div>
                                 <h3 className="text-dark">Call </h3>
-                                <p className="text-dark">+234 2756 9011</p>
+                                <p className="text-dark">+234 802756 9011</p>
                             </div>
                         </div>
                     </div>
