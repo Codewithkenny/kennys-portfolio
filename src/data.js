@@ -22,7 +22,7 @@ export const cardlist = [
   {
     id: 4,
     img: img4,
-    link: "https://movixer.netlify.app/"
+    link: "https://main--movixer.netlify.app/"
   },
   {
     id: 5,
