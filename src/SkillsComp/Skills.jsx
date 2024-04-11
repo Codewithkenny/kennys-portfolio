@@ -73,8 +73,14 @@ const Skills = () => {
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4">
                     <div class="icon-box">
-                        <i class='bx bxl-flask'></i>
-                        <h3>FLASK</h3>
+                        <i class='bx bxl-python'></i>
+                        <h3>PYTHON-FLASK</h3>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 mt-4">
+                    <div class="icon-box">
+                        <i class='bx bxl-tailwind-css'></i>
+                        <h3>TAILWIND</h3>
                     </div>
                 </div>
             </div>
