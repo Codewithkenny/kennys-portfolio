@@ -71,6 +71,12 @@ const Skills = () => {
                         <h3>WORDPRESS</h3>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-4 mt-4">
+                    <div class="icon-box">
+                        <i class='bx bxl-flask'></i>
+                        <h3>FLASK</h3>
+                    </div>
+                </div>
             </div>
 
         </div>
