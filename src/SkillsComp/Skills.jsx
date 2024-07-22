@@ -12,8 +12,8 @@ const Skills = () => {
             <div class="row">
                 <div class="col-lg-3 col-md-4">
                     <div class="icon-box">
-                        <i class="fa fa-html5" aria-hidden="true"></i>
-                        <h3>HTML</h3>
+                        <i class='bx bxl-docker'></i>
+                        <h3>DOCKER</h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4 mt-md-0">

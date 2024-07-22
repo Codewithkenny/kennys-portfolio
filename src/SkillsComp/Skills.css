@@ -32,8 +32,8 @@
     background: rgba(255, 255, 255, 0.12);
 }
 
-.interests .icon-box .fa-html5 {
-    color: orange;
+.interests .icon-box .bxl-docker {
+    color: blue;
 }
 
 .interests .icon-box .fa-css3 {

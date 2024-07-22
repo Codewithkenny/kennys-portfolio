@@ -2,7 +2,7 @@ import React from "react";
 import "./AboutComp.css";
 import img1 from "../img/kenny2.jpg";
 import { Link } from "react-router-dom";
-import MyDoc from "../img/MyDoc.pdf";
+import MyDoc from "../img/poju-fe.pdf";
 
 function AboutComp() {
   return (
