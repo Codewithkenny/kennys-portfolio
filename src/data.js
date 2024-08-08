@@ -3,6 +3,7 @@ import img2 from "./img/redlobster.png";
 import img3 from "./img/excel.png";
 import img4 from "./img/movieapp.png";
 import img5 from "./img/marche.png";
+import img6 from "./img/hr.png";
 
 export const cardlist = [
   {
@@ -12,7 +13,7 @@ export const cardlist = [
   },
   {
     id: 2,
-    img: img2, 
+    img: img2,
     link: "https://red-lobster-restaurant.vercel.app/",
   },
   {
@@ -23,16 +24,16 @@ export const cardlist = [
   {
     id: 4,
     img: img4,
-    link: "https://main--movixer.netlify.app/"
+    link: "https://main--movixer.netlify.app/",
   },
   {
     id: 5,
     img: img5,
-    link: "",
+    link: "https://marchee.netlify.app/",
   },
   {
     id: 6,
-    img: "",
+    img: img6,
     link: "",
   },
 ];
