@@ -1,9 +1,10 @@
-import img1 from "./img/gf-project.png";
+import img1 from "./img/glassfusion.png";
 import img2 from "./img/redlobster.png";
 import img3 from "./img/excel.png";
 import img4 from "./img/movieapp.png";
 import img5 from "./img/marche.png";
-import img6 from "./img/hr.png";
+import img6 from "./img/slake.png";
+
 
 export const cardlist = [
   {
@@ -34,6 +35,7 @@ export const cardlist = [
   {
     id: 6,
     img: img6,
-    link: "",
+    link: "https://www.slakebusinesssolutions.com/",
   },
+  
 ];
