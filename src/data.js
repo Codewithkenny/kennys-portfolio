@@ -2,9 +2,9 @@ import img1 from "./img/glassfusion.png";
 import img2 from "./img/redlobster.png";
 import img3 from "./img/excel.png";
 import img4 from "./img/movieapp.png";
-import img5 from "./img/marche.png";
+import img5 from "./img/lomacom.png";
 import img6 from "./img/slake.png";
-
+import img7 from "./img/marche.png";
 
 export const cardlist = [
   {
@@ -30,12 +30,16 @@ export const cardlist = [
   {
     id: 5,
     img: img5,
-    link: "https://marchee.netlify.app/",
+    link: "https://www.lomacom.co.uk",
   },
   {
     id: 6,
     img: img6,
     link: "https://www.slakebusinesssolutions.com/",
   },
-  
+  {
+    id: 7,
+    img: img7,
+    link:"https://marchee.netlify.app/",
+  },
 ];
