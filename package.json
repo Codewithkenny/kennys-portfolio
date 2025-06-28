@@ -4,10 +4,7 @@
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.8.0",
-<<<<<<< HEAD
     "@fortawesome/fontawesome-free": "^6.7.2",
-=======
->>>>>>> 01b3c553e17b2f23fca30cd38eb06b3cf04df967
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
