@@ -4,8 +4,12 @@ import img3 from "./img/excel.png";
 import img4 from "./img/movieapp.png";
 import img5 from "./img/lomacom.png";
 import img6 from "./img/slake.png";
+<<<<<<< HEAD
 import img7 from "./img/lomacom-nigeria.png";
 import img8 from "./img/potk-ca.png";
+=======
+import img7 from "./img/marche.png";
+>>>>>>> 01b3c553e17b2f23fca30cd38eb06b3cf04df967
 
 export const cardlist = [
   {
@@ -41,6 +45,7 @@ export const cardlist = [
   {
     id: 7,
     img: img7,
+<<<<<<< HEAD
     link: "https://www.lomacom.co.uk/nigeria",
   },
   {
@@ -49,3 +54,8 @@ export const cardlist = [
     link: "https://potk.ca/",
   },
 ];
+=======
+    link:"https://marchee.netlify.app/",
+  },
+];
+>>>>>>> 01b3c553e17b2f23fca30cd38eb06b3cf04df967

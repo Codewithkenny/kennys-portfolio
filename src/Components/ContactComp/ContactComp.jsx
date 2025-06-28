@@ -92,7 +92,11 @@ function ContactComp() {
                     </div>
                 </div>
 
+<<<<<<< HEAD
                 <form onSubmit={sendMail} action="forms/contact.php" method="post" className="php-email-form p-3 p-md-4">
+=======
+                <form onSubmit={sendMail} action="forms/contact.php" method="post" role="form" className="php-email-form p-3 p-md-4">
+>>>>>>> 01b3c553e17b2f23fca30cd38eb06b3cf04df967
                     <div className="row">
                         <div className="col-xl-6 form-group">
                             <input type="text" name="name" className="form-control" ref={nameRef} placeholder="Your Name" required />
