@@ -1,0 +1,54 @@
+h6,
+p {
+
+    color: #fff;
+}
+
+.footer__text {
+    text-align: center;
+    line-height: 30px;
+    font-size: 10px;
+    background-color: #000;
+    /* position: sticky; */
+    bottom: 0;
+}
+
+.p__text {
+    font-size: 22px;
+    font-family: 'Josefin Slab', serif;
+}
+
+
+
+/*--------------------------------------------------------------
+# Scroll top button
+--------------------------------------------------------------*/
+.scroll-top {
+    position: fixed;
+    visibility: hidden;
+    opacity: 0;
+    right: 15px;
+    bottom: 15px;
+    z-index: 99999;
+    background:#161452 ;
+    width: 44px;
+    height: 44px;
+    border-radius: 50px;
+    transition: all 0.4s;
+}
+
+.scroll-top i {
+    font-size: 24px;
+    color: #fff;
+    line-height: 0;
+}
+
+.scroll-top:hover {
+    background: #161452;
+    color: #fff;
+}
+
+.scroll-top.active {
+    visibility: visible;
+    opacity: 1;
+}
