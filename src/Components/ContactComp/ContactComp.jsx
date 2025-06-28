@@ -92,7 +92,6 @@ function ContactComp() {
                     </div>
                 </div>
 
-
                 <form onSubmit={sendMail} action="forms/contact.php" method="post" className="php-email-form p-3 p-md-4">
                     <div className="row">
                         <div className="col-xl-6 form-group">
